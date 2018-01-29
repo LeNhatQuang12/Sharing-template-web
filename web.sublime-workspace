@@ -1,0 +1,716 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fie",
+				"field"
+			],
+			[
+				"fi",
+				"field"
+			],
+			[
+				"getUs",
+				"getUserByUsername"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"login",
+				"login_session_key"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"pa",
+				"parsed"
+			],
+			[
+				"parse",
+				"parse_url"
+			],
+			[
+				"define",
+				"defined"
+			],
+			[
+				"defien",
+				"defined"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"max",
+				"maxSubArraySum"
+			],
+			[
+				"u",
+				"under"
+			],
+			[
+				"q",
+				"quality"
+			],
+			[
+				"c_",
+				"c_mid"
+			],
+			[
+				"un",
+				"under-exposure"
+			],
+			[
+				"vi",
+				"view_id"
+			],
+			[
+				"inve",
+				"investment_child_custom_post_scripts"
+			],
+			[
+				"po",
+				"post_type"
+			],
+			[
+				"wp",
+				"wp_post_types"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"unreg",
+				"unregister_post_types"
+			],
+			[
+				"Logi",
+				"LoginRate"
+			],
+			[
+				"Login",
+				"LoginUsers"
+			],
+			[
+				"Schem",
+				"Schema::drop\tDrop an existing database table"
+			],
+			[
+				"Sch",
+				"Schema::table-update\tUpdate an existing table"
+			],
+			[
+				"fore",
+				"foreign"
+			],
+			[
+				"loca",
+				"location_id"
+			],
+			[
+				"get_current",
+				"get_current_ads_category"
+			],
+			[
+				"functio",
+				"function_exists"
+			],
+			[
+				"tran",
+				"translate"
+			],
+			[
+				"transl",
+				"translate-vi"
+			],
+			[
+				"translate",
+				"translate-en"
+			],
+			[
+				"get",
+				"getQueryStr"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"res",
+				"response"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/navbar.php",
+			"settings":
+			{
+				"buffer_size": 5277,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ppt.php",
+			"settings":
+			{
+				"buffer_size": 4554,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "auth.php",
+			"settings":
+			{
+				"buffer_size": 600,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "web.php",
+			"settings":
+			{
+				"buffer_size": 1095,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "download.php",
+			"settings":
+			{
+				"buffer_size": 514,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"PHP CodeBeautifier"
+			],
+			[
+				"php b",
+				"PHP CodeBeautifier"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hungphongbk/Projects/PHP/websharetemplate",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/css",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/inc"
+	],
+	"file_history":
+	[
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/view.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/register.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/inc/User.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/views/header.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/inc/autoload.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/index.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/auth.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/css/webtemplate.css",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/auth/login.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/ppt.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/contact.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/about.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/web.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/inc/ModelBase.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/inc/Template.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/views/footer.php",
+		"/Users/hungphongbk/Projects/PHP/websharetemplate/views/header",
+		"/Users/hungphongbk/Downloads/nhom-4-A02/websharetemplate/download.php",
+		"/Users/hungphongbk/Downloads/nhom-4-A02/websharetemplate/index.php",
+		"/Users/hungphongbk/Downloads/nhom-4-A02/websharetemplate/view.php",
+		"/Users/hungphongbk/Downloads/nhom-4-A02/websharetemplate/views/navbar.php",
+		"/Users/hungphongbk/Downloads/nhom-4-A02/websharetemplate/inc/autoload.php",
+		"/Users/hungphongbk/Downloads/nhom-4-A02/websharetemplate/inc/functions.php",
+		"/Users/hungphongbk/Downloads/nhom-4-A02/websharetemplate/about.php",
+		"/Users/hungphongbk/Downloads/nhom-4-A02/websharetemplate/contact.php",
+		"/Users/hungphongbk/Downloads/nhom-4-A02/websharetemplate/ppt.php",
+		"/Users/hungphongbk/Downloads/nhom-4-A02/websharetemplate/css/webtemplate.css",
+		"/Users/hungphongbk/Downloads/[BlogCongDong.Com] Mẫu Slide PowerPoint đẹp/[BlogCongDong.Com] Mẫu Slide PowerPoint Đẹp (1).ppt",
+		"/Users/hungphongbk/Downloads/[BlogCongDong.Com] Mẫu Slide PowerPoint đẹp/[BlogCongDong.Com] Mẫu Slide PowerPoint Đẹp (2).ppt",
+		"/Users/hungphongbk/Downloads/[BlogCongDong.Com] Mẫu Slide PowerPoint đẹp/[BlogCongDong.Com] Mẫu Slide PowerPoint Đẹp (3).ppt",
+		"/Users/hungphongbk/Downloads/[BlogCongDong.Com] Mẫu Slide PowerPoint đẹp/[BlogCongDong.Com] Mẫu Slide PowerPoint Đẹp (4).ppt",
+		"/Users/hungphongbk/Downloads/[BlogCongDong.Com] Mẫu Slide PowerPoint đẹp/[BlogCongDong.Com] Mẫu Slide PowerPoint Đẹp (5).ppt",
+		"/Users/hungphongbk/Downloads/[BlogCongDong.Com] Mẫu Slide PowerPoint đẹp/[BlogCongDong.Com] Mẫu Slide PowerPoint Đẹp (6).ppt",
+		"/Users/hungphongbk/Downloads/[BlogCongDong.Com] Mẫu Slide PowerPoint đẹp/[BlogCongDong.Com] Mẫu Slide PowerPoint Đẹp (7).ppt",
+		"/Users/hungphongbk/Downloads/[BlogCongDong.Com] Mẫu Slide PowerPoint đẹp/[BlogCongDong.Com] Mẫu Slide PowerPoint Đẹp (8).ppt",
+		"/Users/hungphongbk/Downloads/[BlogCongDong.Com] Mẫu Slide PowerPoint đẹp/[BlogCongDong.Com] Mẫu Slide PowerPoint Đẹp (9).ppt",
+		"/Users/hungphongbk/Downloads/[BlogCongDong.Com] Mẫu Slide PowerPoint đẹp/[BlogCongDong.Com] Mẫu Slide PowerPoint Đẹp (10).ppt",
+		"/Users/hungphongbk/Downloads/nhom-4-A02/websharetemplate/inc/autoload",
+		"/Users/hungphongbk/Downloads/gimp-plugin-bimp-1.17/README.md",
+		"/Users/hungphongbk/Projects/CPP/thiennguyen/7e/7e.cpp",
+		"/Users/hungphongbk/Projects/CPP/thiennguyen/7b/7b.cpp",
+		"/Users/hungphongbk/Projects/CPP/thiennguyen/1d/main.cpp",
+		"/Users/hungphongbk/smartsharp",
+		"/Users/hungphongbk/evgroup",
+		"/Users/hungphongbk/Downloads/resim_4902.svg",
+		"/Users/hungphongbk/Downloads/KolorAutopanoGiga4.2.3/í®Â†Ô „·‚†≠Æ¢™† EN.cmd",
+		"/Users/hungphongbk/Projects/PHP/vbmfood/themes/cookbook/sidebar-page.php",
+		"/Users/hungphongbk/Downloads/Requiem.for.a.Dream.2000.DirCut.mHD.BluRay.DD5.1.x264-EPiK.ass",
+		"/Users/hungphongbk/Projects/PHP/pokanet/bower.json",
+		"/Users/hungphongbk/Projects/PHP/lottery123/lottery/config/app.php",
+		"/Users/hungphongbk/Projects/PHP/pokanet/composer.json",
+		"/Users/hungphongbk/Projects/PHP/pokanet/config/app.php",
+		"/Users/hungphongbk/Projects/PHP/pokanet/app/Providers/AppServiceProvider.php",
+		"/Users/hungphongbk/Projects/PHP/pokanet/.env",
+		"/Users/hungphongbk/Projects/PHP/udon/functions.php",
+		"/Users/hungphongbk/Projects/PHP/udon/woocommerce.php",
+		"/private/var/folders/77/6lj9sxxn1vj0ch621t4r722r0000gn/T/fz3temp-1/config.json",
+		"/Users/hungphongbk/Documents/hungphongbk.com/panel.hungphongbk.com/1_panel.hungphongbk.com_bundle.crt",
+		"/Users/hungphongbk/Projects/PHP/lottery123/lottery/app/Modules/Core/Views/widgets/revslider/slide-1.blade.php",
+		"/Users/hungphongbk/Projects/PHP/lottery123/lottery/app/Classes/RevSlider.php",
+		"/Users/hungphongbk/Projects/PHP/lottery123/lottery/app/Modules/Core/Providers/AppServiceProvider.php",
+		"/Users/hungphongbk/Projects/PHP/lottery123/lottery/app/Modules/Core/Views/widgets/revslider.blade.php",
+		"/Users/hungphongbk/Documents/hungphongbk.com/www.hungphongbk.com/OtherServer/root.crt",
+		"/Users/hungphongbk/Documents/hungphongbk.com/www.hungphongbk.com/OtherServer/1_Intermediate.crt",
+		"/private/var/folders/77/6lj9sxxn1vj0ch621t4r722r0000gn/T/fz3temp-1/ajenti.conf",
+		"/Users/hungphongbk/Downloads/my-icons-collection/svg/coins.svg",
+		"/Users/hungphongbk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/usr/local/etc/nginx/servers/default.conf",
+		"/usr/local/etc/php/7.1/php-fpm.d/www.conf",
+		"/usr/local/etc/nginx/global/php_cgi.conf",
+		"/Users/hungphongbk/Downloads/wp-toolset/WP-Types/wp-views/wp-views.php",
+		"/Users/hungphongbk/Sites/hotspot/.bowerrc",
+		"/Users/hungphongbk/Projects/PHP/lottery123/lottery/app/Modules/Core/Controllers/Auth/AuthController.php",
+		"/Users/hungphongbk/Projects/PHP/shincoffee/wp-content/themes/theleaf-child/style.css",
+		"/Users/hungphongbk/Downloads/google9d073f5b5d51f38d.html",
+		"/Users/hungphongbk/Projects/PHP/lottery123/lottery/app/Classes/Scripts.php",
+		"/Users/hungphongbk/Projects/PHP/vwifi/database/seeds/LoginUserSeeder.php",
+		"/Users/hungphongbk/Projects/PHP/vwifi/database/migrations/2016_07_24_190111_create_LoginUser_table.php",
+		"/Users/hungphongbk/Projects/PHP/vwifi/database/migrations/2016_08_08_074853_create_login_rate_table.php",
+		"/Users/hungphongbk/Projects/PHP/vwifi/app/LoginUser.php",
+		"/Users/hungphongbk/Projects/PHP/vwifi/app/Location.php",
+		"/Users/hungphongbk/Projects/PHP/vwifi/database/seeds/DatabaseSeeder.php",
+		"/Users/hungphongbk/Projects/PHP/vwifi/database/seeds/vwificom_wifi.csv",
+		"/Users/hungphongbk/Projects/PHP/vwifi/app/Http/Controllers/AdminController.php",
+		"/Users/hungphongbk/Projects/PHP/vwifi/app/Http/Controllers/routerWifi.php",
+		"/Users/hungphongbk/Projects/PHP/vwifi/database/seeds/vwificom_wifi.sql",
+		"/Users/hungphongbk/Projects/PHP/vwifi/vendor/composer/autoload_classmap.php",
+		"/Users/hungphongbk/Projects/PHP/vwifi/vendor/composer/autoload_static.php",
+		"/Users/hungphongbk/Projects/PHP/vwifi/database/migrations/2016_07_24_190111_create_LoginUsers_table.php",
+		"/Users/hungphongbk/Projects/PHP/vwifi/app/LoginUsers.php",
+		"/Users/hungphongbk/Projects/PHP/vwifi/app/LoginRate.php",
+		"/Users/hungphongbk/Projects/PHP/vwifi/composer.json",
+		"/Users/hungphongbk/Projects/PHP/mercury/wp-content/themes/investment_child/functions.php",
+		"/Users/hungphongbk/Projects/PHP/shincoffee/wp-content/themes/theleaf-child/functions.php",
+		"/private/var/folders/77/6lj9sxxn1vj0ch621t4r722r0000gn/T/fz3temp-1/style.css",
+		"/Users/hungphongbk/Documents/hungphongbk.com/bootstrap/css/bootstrap.min.css",
+		"/private/var/folders/77/6lj9sxxn1vj0ch621t4r722r0000gn/T/fz3temp-1/functions.php",
+		"/Users/hungphongbk/Documents/hungphongbk.com/ajenti.pem",
+		"/Users/hungphongbk/Documents/hungphongbk.com/panel.hungphongbk.com/OtherServer/panel.hungphongbk.com.pem",
+		"/private/var/folders/77/6lj9sxxn1vj0ch621t4r722r0000gn/T/fz3temp-1/loan-calculator.php",
+		"/Users/hungphongbk/Projects/PHP/shincoffee/wp-content/themes/theleaf/skins/theleaf/skin.css",
+		"/Users/hungphongbk/Projects/PHP/lottery123/lottery/storage/framework/messages/f4a1c950473ad8399258a5bb33d26b3d02728e38.php.php",
+		"/Volumes/06B1C6CB-F7B8-48F5-982C-FC8191758BC1-1986-0000041C82C62CE6/WP_Types/WP Views v1.8.1/wp-views/wp-views.php",
+		"/Users/hungphongbk/Projects/PHP/lottery123/lottery/public/libs/ckeditor/README.md",
+		"/Users/hungphongbk/Projects/PHP/lottery123/lottery/storage/framework/messages/09a6c165b870adaf0ef93a490a83d9a301bea447.php.php",
+		"/Users/hungphongbk/Projects/PHP/lottery123/lottery/app/Modules/Admin/Controllers/AdminModuleController.php",
+		"/usr/local/etc/nginx/fastcgi_params",
+		"/usr/local/etc/nginx/servers/wordpress.conf",
+		"/usr/local/etc/nginx/nginx.conf",
+		"/Users/hungphongbk/Downloads/kim-interface.hungphongbk.com",
+		"/Users/hungphongbk/Projects/PHP/lottery123/lottery/composer.json",
+		"/Users/hungphongbk/Downloads/stern_taxi_fare/style.css",
+		"/usr/local/etc/nginx/global/restriction.conf",
+		"/Users/hungphongbk/Projects/PHP/hungpham-restaurant/plugins/bedrock-override-restaurant-theme/vendor/smarty/smarty/libs/plugins/modifiercompiler.count_sentences.php",
+		"/Users/hungphongbk/Projects/PHP/hungpham-restaurant/plugins/bedrock-override-restaurant-theme/vendor/smarty/smarty/libs/plugins/function.fetch.php",
+		"/Users/hungphongbk/Sites/misc/goods/public/index.php",
+		"/Users/hungphongbk/Sites/misc/goods/src/middleware.php",
+		"/Users/hungphongbk/Sites/misc/goods/src/Model/Translate.php",
+		"/Users/hungphongbk/Sites/misc/goods/logs/app.log",
+		"/Users/hungphongbk/Sites/misc/goods/index.php",
+		"/usr/local/etc/nginx/servers/wordpress/single.conf",
+		"/usr/local/etc/nginx/servers/wordpress/multisite.conf",
+		"/Users/hungphongbk/Projects/PHP/lottery123/SOURCE/README.md",
+		"/Users/hungphongbk/Projects/PHP/linkingallprofessions-theme/export/main_style.css",
+		"/private/etc/hosts",
+		"/Users/hungphongbk/Sites/phuotblog/wp-config.php",
+		"/Users/hungphongbk/Projects/PHP/lottery123/lottery/readme.md",
+		"/Users/hungphongbk/Projects/PHP/linkingallprofessions-theme/export/manifest.json"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/hungphongbk/Sites/hotspot",
+			"/Users/hungphongbk/Projects/PHP/vwifi",
+			"/Users/hungphongbk/Projects/PHP/mercury/wp-content/themes/investment",
+			"/Users/hungphongbk/Projects/PHP/vwifi"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"require 'inc/autoload.php';",
+			"letter",
+			");\n",
+			"LottoChannel",
+			"   ",
+			"    ",
+			"bedrocktest",
+			"refreshtimeout",
+			" id=\".*?\"\\s?",
+			"linklogin",
+			"vwifi.com.vn",
+			"masonry_output",
+			"masonry_2",
+			"{location_id}",
+			"female",
+			"LoginUsers",
+			"location",
+			"}\n",
+			"scheme_re",
+			"cart",
+			"follow",
+			"collec",
+			"collect",
+			"1em",
+			"connection(",
+			"wordpress",
+			"auth_type"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"require_once 'inc/autoload.php';",
+			",",
+			"",
+			"{location}",
+			"LoginUser"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/navbar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4067,
+								4067
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 242.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ppt.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "auth.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								446,
+								446
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1095,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								526,
+								526
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "download.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								514,
+								514
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "web.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
